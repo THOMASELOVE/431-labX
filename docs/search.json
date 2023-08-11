@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "431 Lab X",
+    "section": "",
+    "text": "Lab X is an optional bonus lab, which consists of building a professional website.\nThis is, we hope, a worthwhile opportunity for you to build your own professional website. Not only will this give you some additional practice coding and using R and R-adjacent tools, it’s a low-cost and potentially high-yield method to establish your professional presence online. This is also an opportunity to learn how to use Quarto for more involved work than we’ll do in 431 otherwise."
+  },
+  {
+    "objectID": "index.html#the-five-key-elements",
+    "href": "index.html#the-five-key-elements",
+    "title": "431 Lab X",
+    "section": "The Five Key Elements",
+    "text": "The Five Key Elements\nDr. Love will be happy if your site clearly includes at least the following five elements:\n\nA front page including a photo of you or of something relevant to you.\nLinks to your social media presence, if any, and a way for people to get in touch with you via email.\nAn About Me or Welcome section on your front page, which briefly describes what you’re doing now.\nSome information on your Education, Experiences, and/or Projects\nA way to download your CV\n\nA blog is also an appealing way to connect your thoughts with the world, and including non-professional stuff is OK, too, of course."
+  },
+  {
+    "objectID": "index.html#can-i-use-something-other-than-r-quarto-to-build-my-site",
+    "href": "index.html#can-i-use-something-other-than-r-quarto-to-build-my-site",
+    "title": "431 Lab X",
+    "section": "Can I use something other than R / Quarto to build my site?",
+    "text": "Can I use something other than R / Quarto to build my site?\nYes, but you’ll receive less credit than a good Quarto site would receive.\nGood options to consider include Owlstown, and Wix, and each offers templates that would work nicely.\nFollow whichever approach is best for you and you feel most comfortable with. The key thing is to commit to making this a part of your life going forward, however you most effectively do that."
+  },
+  {
+    "objectID": "index.html#what-if-i-already-have-an-active-website",
+    "href": "index.html#what-if-i-already-have-an-active-website",
+    "title": "431 Lab X",
+    "section": "What if I already have an active website?",
+    "text": "What if I already have an active website?\nIf it includes the five elements listed above, great! You should definitely submit it to me as soon as possible."
+  },
+  {
+    "objectID": "index.html#should-i-spend-a-lot-of-money-to-have-a-fancy-domain-name",
+    "href": "index.html#should-i-spend-a-lot-of-money-to-have-a-fancy-domain-name",
+    "title": "431 Lab X",
+    "section": "Should I spend a lot of money to have a fancy domain name?",
+    "text": "Should I spend a lot of money to have a fancy domain name?\nNo. There are many low-cost solutions if you want to register a domain and use it for this purpose. Google Domains can provide you with most available domains for something like $1 per month. I wouldn’t go much above that, and a free name is even better."
+  },
+  {
+    "objectID": "index.html#do-i-need-to-wait-until-december-to-work-on-this",
+    "href": "index.html#do-i-need-to-wait-until-december-to-work-on-this",
+    "title": "431 Lab X",
+    "section": "Do I need to wait until December to work on this?",
+    "text": "Do I need to wait until December to work on this?\nNot at all. I would expect most of you to be able to follow the templates and guides above to do the work by early October. At the end of the term, you will have a lot of work to do, so getting to this early is definitely a good idea."
+  },
+  {
+    "objectID": "index.html#will-the-tas-help-me-troubleshoot-my-website",
+    "href": "index.html#will-the-tas-help-me-troubleshoot-my-website",
+    "title": "431 Lab X",
+    "section": "Will the TAs help me troubleshoot my website?",
+    "text": "Will the TAs help me troubleshoot my website?\nIf they can, sure, but only after anyone else looking for 431 help has had their problem settled. I do not guarantee that we can help fix your website problems."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "431 Lab X",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDr. Love will define what a “substantial boost” means in December.↩︎"
+  },
+  {
+    "objectID": "labX.html",
+    "href": "labX.html",
+    "title": "431 Lab X",
+    "section": "",
+    "text": "Lab X is a bonus lab, which consists of building a professional website.\nThis is, we hope, a worthwhile opportunity for you to build your own professional website. Not only will this give you some additional practice coding and using R and R-adjacent tools, it’s a low-cost and potentially high-yield method to establish your professional presence online. This is also an opportunity to learn how to use Quarto for more involved work than we’ll do in 431 otherwise."
+  },
+  {
+    "objectID": "labX.html#can-i-use-something-other-than-r-quarto-to-build-my-site",
+    "href": "labX.html#can-i-use-something-other-than-r-quarto-to-build-my-site",
+    "title": "431 Lab X",
+    "section": "4.1 Can I use something other than R / Quarto to build my site?",
+    "text": "4.1 Can I use something other than R / Quarto to build my site?\nYes, but I’ll give you less credit than I will for a good Quarto site. Good options to consider include Owlstown, and Wix, and each offers templates that would work nicely.\nFollow whichever approach is best for you and you feel most comfortable with. The key thing is to commit to making this a part of your life going forward, however you most effectively do that."
+  },
+  {
+    "objectID": "labX.html#what-if-i-already-have-an-active-website",
+    "href": "labX.html#what-if-i-already-have-an-active-website",
+    "title": "431 Lab X",
+    "section": "4.2 What if I already have an active website?",
+    "text": "4.2 What if I already have an active website?\nIf it includes the five elements I’ve listed above, great! You should definitely submit it to me as soon as possible."
+  },
+  {
+    "objectID": "labX.html#should-i-spend-a-lot-of-money-to-have-a-fancy-domain-name",
+    "href": "labX.html#should-i-spend-a-lot-of-money-to-have-a-fancy-domain-name",
+    "title": "431 Lab X",
+    "section": "4.3 Should I spend a lot of money to have a fancy domain name?",
+    "text": "4.3 Should I spend a lot of money to have a fancy domain name?\nNo. There are many low-cost solutions if you want to register a domain and use it for this purpose. Google Domains can provide you with most available domains for something like $1 per month. I wouldn’t go much above that, and a free name is even better."
+  },
+  {
+    "objectID": "labX.html#do-i-need-to-wait-until-december-to-work-on-this",
+    "href": "labX.html#do-i-need-to-wait-until-december-to-work-on-this",
+    "title": "431 Lab X",
+    "section": "4.4 Do I need to wait until December to work on this?",
+    "text": "4.4 Do I need to wait until December to work on this?\nNot at all. I would expect most of you to be able to follow the templates and guides above to do the work by early October. At the end of the term, you will have a lot of work to do, so getting to this early is definitely a good idea."
+  },
+  {
+    "objectID": "labX.html#will-the-tas-help-me-troubleshoot-my-website",
+    "href": "labX.html#will-the-tas-help-me-troubleshoot-my-website",
+    "title": "431 Lab X",
+    "section": "4.5 Will the TAs help me troubleshoot my website?",
+    "text": "4.5 Will the TAs help me troubleshoot my website?\nIf they can, sure, but only after anyone else looking for 431 help has had their problem settled. I do not guarantee that we can help fix your website problems."
+  },
+  {
+    "objectID": "labX.html#footnotes",
+    "href": "labX.html#footnotes",
+    "title": "431 Lab X",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI will define what a “substantial boost” means in December.↩︎"
+  }
+]

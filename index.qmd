@@ -50,6 +50,7 @@ Here are some resources that we think might be useful to you. If you find others
 - CrumpLab gives us [Blogging with Quarto: A 10 minute getting started tutorial](https://www.youtube.com/watch?v=YoKjBcuUP0s) (about 10 minutes)
 - Isabella Velásquez at RStudio has a YouTube video called [Building a Blog with Quarto](https://www.youtube.com/watch?v=CVcvXfRyfE0) (just over an hour)
 - Thomas Mock shows you how to [Create & Publish a Quarto Blog on Quarto Pub in 100 Seconds](https://www.youtube.com/watch?v=t8qtcDyCRFA)
+- Joshua French has a playlist at YouTube of nine short videos that walk you through [Creating Websites with Quarto and Github](https://www.youtube.com/playlist?list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo)
 
 ## Can I use something other than R / Quarto to build my site?
 
